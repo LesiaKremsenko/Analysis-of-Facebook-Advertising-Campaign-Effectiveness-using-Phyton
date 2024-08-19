@@ -24,7 +24,7 @@ The results of the analysis will provide you with detailed reports and visualiza
 
 ## Dataset
 
-The dataset used for this project can be accessed [here](https://drive.google.com/file/d/1_BWRQxFmF9YUMCQMTIbuHlUTKCqrrxnc/view?usp=sharing).
+The dataset used for this project can be found in the repository as `facebook_ads_data.csv`
 
 ## License
 
