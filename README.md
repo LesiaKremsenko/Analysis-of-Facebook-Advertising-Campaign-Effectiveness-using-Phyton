@@ -12,11 +12,17 @@ This project focuses on analyzing Facebook ad campaigns to evaluate their effect
 
 ## Getting Started
 
-To get started with this project, you will need to:
+To get started with this project, follow these steps:
 
 1. **Download the Project:** Clone or download the repository to your local machine.
-2. **Prepare Your Data:** Ensure you have the Facebook ad campaign data ready in the required format.
-3. **Run the Analysis:** Follow the instructions in the `analyze_campaign.py` script to start the analysis.
+
+2. **Prepare Your Data:** The dataset is already included in the repository as `facebook_ads_data.csv`. No additional setup is required for the data.
+
+3. **Run the Analysis:** You can run the analysis directly from the Jupyter Notebook. Open the [Jupyter Notebook](254e093f-0ad7-493e-82df-a95a9d3bee19HW_5_Python.ipynb) file in Jupyter Notebook or JupyterLab and execute the cells to start the analysis.
+
+4. **Python Script (Optional):** If you prefer, you can also run the analysis using the Python script. Use the `analyze_campaign.py` script available in the repository by running it with Python.
+
+Make sure you have all necessary dependencies installed. You can install them using `pip` by running `pip install -r requirements.txt` if a `requirements.txt` file is available.
 
 ## Results
 
