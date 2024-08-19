@@ -1,0 +1,2 @@
+# Analysis-of-Facebook-Advertising-Campaign-Effectiveness-using-Phyton
+This project aims to analyze the effectiveness of Facebook advertising campaigns by evaluating key performance metrics such as cost per click (CPC), return on marketing investment (ROMI), and other relevant indicators. The analysis is conducted using Python and various data science libraries to extract, process, and visualise the data.
